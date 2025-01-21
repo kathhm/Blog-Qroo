@@ -14,50 +14,6 @@
     <h1 id="titulo">Las chocoaventuras de Kat</h1>
     <hr>
 
-    <center><img src="./chocoaventuras collage.jpg"
-            alt="collage con fotos de los viajes de Kat, de diversos momentos donde fue muy feliz" , height="450" ,
-            width="800" , img>
-
-    </center>
-    <hr>
-
-
-
-    <h2>En este blog, plasmaré algunos de mis recuerdos favoritos en viajes que he realizado, especialmente aquellos que realicé durante el capítulo de mi vida en Quintana Roo.</h2>
-
-    <h3>Lugares que visité en 2024</h4> <!--aqui aplico estilo en linea-->
-    <!--lista desordenada-->
-    <ol >
-        <li>Chetumal</li>
-            <ul> 
-                <li><a href ="https://www.youtube.com/watch?v=lPLCQBpJM0g">La fuente del pescador</a></li>
-                <li><a href ="https://www.youtube.com/watch?v=L5H6Q3ikUf0">Boulevard Bahía</a></li> 
-                <li><a href ="https://www.youtube.com/watch?v=tSwGkcvctMk">Calderitas</a></li>
-            </ul>
-        <li>Bacalar</li>
-            <ul> 
-                <li><a href ="https://www.youtube.com/watch?v=tTMmeIzlB1U">La playita</a></li>
-                <li><a href ="https://www.youtube.com/watch?v=hkxHVOD0qnQ">Balneario ecológico</a></li> 
-                <li><a href ="https://www.youtube.com/watch?v=VEG4BcuI3Vs">Centro de Bacalar</a></li>
-            </ul>
-        <li>Mahahual</li>
-            <ul> 
-                <li><a href ="https://www.youtube.com/watch?v=ZEm60MbMZaw">The Krazy Lobster</a></li>
-                <li><a href ="https://www.youtube.com/watch?v=eCJ5MsKSPwk">Blue Kay</a></li> 
-             </ul>
-        <li>Tulum</li>
-        <li>Playa del carmen</li>
-        <li>Cancún</li>
-        <li>Cozumel</li>
-        <li>Isla Mujeres</li>
-        <li>Mérida</li>
-        <li>Chichén Itzá</li>
-        <li>Valladolid</li>
-        <li>Izamal</li>
-    </ol>
-
-    <hr>
-
     <header>Deja tu opinión!</header>
     <main>
         <section>

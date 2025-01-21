@@ -5,7 +5,8 @@
 h1{
     color:#845ec2;
     font-family: fantasy;
-    font-weight: 800;
+    font-weight: 1000;
+    font-size: xx-large;
     text-align: center;
 
 }
@@ -35,4 +36,29 @@ ul{
 p{
     font-family: 'Times New Roman', Times, serif;
     font-weight: 500;
+    font-size: larger;
+}
+
+header{
+    color: #d65db1;
+    font-family: monospace;
+    font-weight: 1000;
+    text-align:center;
+
+}
+
+figure{
+    text-align:center;
+}
+legend{
+    font-size: xx-large;
+    text-align: center;
+}
+
+.fotito{
+    text-align: left;
+}
+
+.textoder{
+    text-align: right;
 }
